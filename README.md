@@ -11,4 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...vshivgopal05@gmail.com
 - 😄 Pronouns: ...he/shiv
 - ⚡ Fun fact: ...i'am lazzyyy
--->https://github-readme-stats.vercel.app/api?username=shivgopal07
+-->
+![Shiv's github stats](https://github-readme-stats.vercel.app/api?username=shivgopal07&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= shivgopal07&layout=compact&theme=tokyonight)  
