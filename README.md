@@ -1,7 +1,9 @@
 ### Hi i am here  👋
 
+Welcome to my GitHub profile.
+Purusing B.Tech degree from SILIGURI INSTITUTE OF TECHNOLOGY in Computer science and engginerring.
+DSC core team member 2020-2021
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...100 days coding
 - 🌱 I’m currently learning ...JAVA and Python
@@ -11,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...vshivgopal05@gmail.com
 - 😄 Pronouns: ...he/shiv
 - ⚡ Fun fact: ...i'am lazzyyy
--->
+
 
 
 
