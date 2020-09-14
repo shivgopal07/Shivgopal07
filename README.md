@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...he/shiv
 - ⚡ Fun fact: ...i'am lazzyyy
 -->
+
+https://github-readme-stats.vercel.app/api?username=shivgopal07
