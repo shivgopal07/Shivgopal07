@@ -1,7 +1,7 @@
 ### Hi i am here  👋
 
 Welcome to my GitHub profile.
-Purusing B.Tech degree from SILIGURI INSTITUTE OF TECHNOLOGY in Computer science and engginerring.
+Purusing B.Tech degree from SILIGURI INSTITUTE OF TECHNOLOGY in Computer science and engineering.
 DSC core team member 2020-2021
 
 
