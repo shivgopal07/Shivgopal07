@@ -1,12 +1,12 @@
 ### Hi i am here  👋
 
 Welcome to my GitHub profile.
-Purusing B.Tech degree from SILIGURI INSTITUTE OF TECHNOLOGY in Computer science and engineering.
+Purusing B.Tech degree from SILIGURI INSTITUTE OF TECHNOLOGY in Computer Science and Engineering.
 DSC core team member 2020-2021
 
 
 - 🔭 I’m currently working on ...100 days coding
-- 🌱 I’m currently learning ...JAVA and Python
+- 🌱 I’m currently learning ...JAVA
 - 👯 I’m looking to collaborate on ...JAVA
 - 🤔 I’m looking for help with ...us
 - 💬 Ask me about ...Anything You Want
