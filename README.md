@@ -7,7 +7,7 @@ DSC core team member 2020-2021
 
 - 🔭 I’m currently working on ...100 days coding
 - 🌱 I’m currently learning ...JAVA
-- 👯 I’m looking to collaborate on ...JAVA
+- 👯 I’m looking to collaborate on ...C-Langugage
 - 🤔 I’m looking for help with ...us
 - 💬 Ask me about ...Anything You Want
 - 📫 How to reach me: ...vshivgopal05@gmail.com
