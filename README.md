@@ -1,16 +1,15 @@
 ### Hi i am here  👋
 
 Welcome to my GitHub profile.
+Full-Stack Devloper
 Completed B.Tech degree from SILIGURI INSTITUTE OF TECHNOLOGY in Computer Science and Engineering.
-GDSC core team member 2020-2021
 
 
-- 🌱 I’m currently working ...JAVA
-- 👯 I’m looking to collaborate on ...C-Langugage
+- 🌱 I’m currently working ...JAVA, JAVASCRIPT, HTML,CSS
+- 👯 I’m looking to collaborate on ...Web Development
 - 🤔 I’m looking for help with ...us
 - 💬 Ask me about ...Anything You Want
 - 📫 How to reach me: ...vshivgopal05@gmail.com
-- 😄 Pronouns: ...he/shiv
 - ⚡ Fun fact: ...i'am lazzyyy
 
 
